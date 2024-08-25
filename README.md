@@ -1,4 +1,4 @@
-# Microservice for Movies
+# Microservices for Movies
 
 <p>
 These microservices are designed to fulfill their function within a platform of cinemas, each one will be performed every time a call is made on the frotend through the URLs defined, these four microservices are mainly focused on managing the information of the movies that are shown in the cinema through their respective endpoints which are connected to a postgres database that is hosted in the cloud.
@@ -44,6 +44,8 @@ To use the microservice, follow the steps above to install and run the project, 
 - **Swagger** for API documentation.
 - **Docker** for optional containerization.
 
+> [!IMPORTANT]
+> If you use the frontend of the cinema platform, make sure to change the URLs to make it work properly.
 
 ###  License 
 This project is licensed under the (AFL-3.0) License - see the [LICENSE](https://opensource.org/license/afl-3-0-php) file for details.

@@ -5,7 +5,7 @@ This microservice performs the action of removing movies from a cinema platform.
 </p>
 
 
-#### How to install and run the project? :tw-1f527:
+#### How to install and run the project? :wrench:
 The project requires Node.js and npm installed on your system. To install and run the project, follow these steps:
 
 ###### Clone the repository:
@@ -30,7 +30,7 @@ Create an `.env` file in the root of the project and set the following environme
 ###### Execute the server:
 - `npm start`
 
-#### How to use the project :tw-1f52c:
+#### How to use the project :computer:
 <p>
 To make use of this microservice you must execute the above mentioned commands locally on your machine, you can make use of the frontend that was designed for the consumption of this microservice, where you should modify the URL to work locally without problem.
 </p>
@@ -44,5 +44,5 @@ To make use of this microservice you must execute the above mentioned commands l
 - **Docker** for optional containerization.
 
 
-####  License :tw-1f4c4: 
+###  License
 This project is licensed under the (AFL-3.0) License - see the [LICENSE](https://opensource.org/license/afl-3-0-php) file for details.
