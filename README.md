@@ -5,7 +5,7 @@ These microservices are designed to fulfill their function within a platform of 
 </p>
 
 
-#### How to install and run the project? :tw-1f527:
+#### How to install and run the project? :wrench:
 Each microservice has its own instructions but in general you will need to follow the following steps for installation and execution:
 
 ###### Clone the repository:
@@ -30,7 +30,7 @@ Create an `.env` file in the root of the project and set the following environme
 ###### Execute the server:
 - `npm start`
 
-#### How to use the project :tw-1f52c:
+#### How to use the project :computer:
 <p>
 To use the microservice, follow the steps above to install and run the project, in case of any additional steps each microservice has its own instructions. Once the program is running you can make use of the frontend of the cinema platform which should also run on your local machine or you can make use of the Swagger documentation available, so it would no longer be necessary to have the frontend of the cinema platform to test this microservice, you can access through the URL of your local machine by incrementing the path indicated in the documentation for each microservice.
 </p>
@@ -45,5 +45,5 @@ To use the microservice, follow the steps above to install and run the project, 
 - **Docker** for optional containerization.
 
 
-####  License :tw-1f4c4: 
+###  License 
 This project is licensed under the (AFL-3.0) License - see the [LICENSE](https://opensource.org/license/afl-3-0-php) file for details.
