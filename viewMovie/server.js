@@ -16,5 +16,5 @@ app.use('/api', movieRoutes);
 app.use('/swaggerViewMovies', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 app.listen(port, () => {
-  console.log(`Microservice list movies listening at http://localhost:${port}`);
+  console.log(`Microservice  listening at http://localhost:${port}`);
 });
