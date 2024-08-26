@@ -7,7 +7,7 @@ const startServer = async () => {
   const app = express();
 
   app.use(cors({
-    origin: 'http://localhost:3000'  
+    origin: 'https://cinema-platform-743n6.ondigitalocean.app'  
   }));
 
   const server = new ApolloServer({ typeDefs, resolvers });
